@@ -1,6 +1,6 @@
 ### Hi, I'm ahdeka 👋
 
-Backend Developer in Japan 🇯🇵 · Finance SI · CS / DB / Network fundamentals
+Software Engineer in Japan 🇯🇵 · SES / SI projects · ex-QA (Korea)
 
 <br>
 
@@ -17,7 +17,8 @@ Backend Developer in Japan 🇯🇵 · Finance SI · CS / DB / Network fundament
 
 ```
 🔨  Building   : jpko_community · tech blog (ko / ja)
-💼  Work       : Java · Spring Boot · VBA · VB.NET  @ Japanese finance SI
+💼  Now        : SES / SI projects in Japan — Java · VBA · VB.NET
+🧪  Before     : QA · software testing & certification (Korea)
 🌐  Languages  : Korean · Japanese · English
 ```
 
