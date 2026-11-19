@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm ahdeka 👋
 
-<!--
-**ahdeka/ahdeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer in Japan 🇯🇵 · Finance SI · CS / DB / Network fundamentals
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**  
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,supabase" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react" />
+
+**Infra & CI/CD**  
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,githubactions" />
+
+<br>
+
+```
+🔨  Building   : jpko_community · tech blog (ko / ja)
+💼  Work       : Java · Spring Boot · VBA · VB.NET  @ Japanese finance SI
+🌐  Languages  : Korean · Japanese · English
+```
+
+<br>
+
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=vercel&logoColor=white)](https://blog.ahdeka.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahdeka01@gmail.com)
